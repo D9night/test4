@@ -5,6 +5,11 @@ public class Hello {
         test1();
         test2();
         test3();
+        test4();
+    }
+
+    private static void test4() {
+        System.out.println("change List");
     }
 
     private static void test3() {
